@@ -1,0 +1,16 @@
+---
+
+## ✅ **2️⃣ .gitignore**
+
+Pra ignorar arquivos de build e binários:  
+
+```gitignore
+# Compiled binary
+batalha_naval
+batalha_naval.exe
+
+# MacOS hidden files
+.DS_Store
+
+# VS Code settings
+.vscode/
